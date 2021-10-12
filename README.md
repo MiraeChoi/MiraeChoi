@@ -1,7 +1,7 @@
 ### Hi there 👋
 Mirae Choi / Developer / Republic of Korea
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-%20---blue"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-%20----"/></a>
 <!--
 **MiraeChoi/MiraeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
