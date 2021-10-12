@@ -1,4 +1,5 @@
 ### Hi there 👋
+Mirae Choi / Developer / Republic of Korea
 
 <!--
 **MiraeChoi/MiraeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
