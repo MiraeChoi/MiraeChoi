@@ -1,7 +1,7 @@
 ### Hi there 👋
 Mirae Choi / Developer / Republic of Korea
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-배경색?style=for-the-badge&logo=appveyor&logoColor=#007396"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-#5D5D5D?style=for-the-badge&logo=appveyor&logoColor=#007396"/></a>
 <!--
 **MiraeChoi/MiraeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
