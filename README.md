@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mirae Choi / Developer / Republic of Korea
+Mirae Choi / Developer / Republic of Korea<br>
 JAVA / JSP / Spring / JS / etc
 
 <a href="mailto:pnenv@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-0BC904?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:pnenv@naver.com"/></a>
