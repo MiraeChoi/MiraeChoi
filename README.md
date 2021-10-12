@@ -1,7 +1,7 @@
 ### Hi there 👋
 Mirae Choi / Developer / Republic of Korea
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Email-1DDB16?style=flat-square&logo=Email&logoColor=white&link=mailto:pnenv@naver.com"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Email-1DDB16?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:pnenv@naver.com"/></a>
 <!--
 **MiraeChoi/MiraeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
